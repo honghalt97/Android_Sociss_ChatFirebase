@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "186989839025",
+    "firebase_url": "https://andoirdchatfirebase.firebaseio.com",
+    "project_id": "andoirdchatfirebase",
+    "storage_bucket": "andoirdchatfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186989839025:android:90c68acb2c7fbb9d",
+        "android_client_info": {
+          "package_name": "com.example.my_pc.chatfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186989839025-v46s7i983bs3j473kp29qbgncdomienn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDklSCytSw-JpedY54eCYcj11pTDwxqeD0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
